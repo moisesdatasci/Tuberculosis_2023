@@ -10,12 +10,20 @@ Dado que GitHub no renderiza gráficos interactivos de Plotly directamente, por 
 
 [![Ver en Nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/[TU_USUARIO]/[NOMBRE_DEL_REPO]/blob/main/[NOMBRE_DE_TU_NOTEBOOK].ipynb)
 
+![Incidencia global tbc](https://github.com/user-attachments/assets/8d6fa61a-760c-4604-8b41-6ce0f4e58072)
+
 ## 🗝️ Hallazgos Clave
 * **Tendencia Global:** Se observa una reducción sostenida en la incidencia global desde 2002, aunque la velocidad de mejora varía por región.
+  
+![Tendencia promedio global](https://github.com/user-attachments/assets/51a7d6af-691c-4268-86db-79f19a792338)
+
 * **Puntos Críticos (2023):** Los países con mayor incidencia (>500 casos por 100k hab.) se concentran en:
     1.  **Islas del Pacífico:** (Islas Marshall, Kiribati) posiblemente debido a alta densidad en áreas limitadas.
     2.  **África Subsahariana:** (Lesotho, Gabón, Rep. Centroafricana) correlacionado fuertemente con la prevalencia de VIH.
     3.  **Sudeste Asiático:** (Filipinas, Myanmar).
+       
+![Top 10 paises](https://github.com/user-attachments/assets/80b59958-fa55-4e69-b51d-7497b90ffbe9)
+
 
 ## 🛠️ Tecnologías Usadas
 * **Python:** Lenguaje principal.
@@ -25,4 +33,4 @@ Dado que GitHub no renderiza gráficos interactivos de Plotly directamente, por 
 ## 🚀 Cómo ejecutar este proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/moisesdatasci/Tuberculosis_2023.git
+   https://github.com/moisesdatasci/Tuberculosis_2023.git
